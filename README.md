@@ -10,7 +10,7 @@ The repository contains the following folders and files:
 The Jupyter notebook containing the analysis following the CRISP-DM process.
 
 Results
-A summary of the results of the analysis can be found in the Jupyter notebook or in this blog on medium.
+A summary of the results of the analysis can be found in the Jupyter notebook or in this blog on medium (https://medium.com/@cksharma12345/seattle-story-of-airbnb-hidden-in-accommodation-data-2ae62c6bb32c).
 
 Dependencies
 Python 3.6
